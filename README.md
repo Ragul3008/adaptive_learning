@@ -17,6 +17,7 @@ A minimal adaptive learning system that dynamically adjusts math problem difficu
 ✔ Fully modular design (Puzzle Generator, Tracker, Adaptive Engine)
 
 ✔ Simple command-line interface (no heavy UI needed)
+
 🧩 Project Structure
 
 math-adaptive-prototype/
